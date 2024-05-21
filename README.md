@@ -34,12 +34,11 @@
   </summary>
 <!-- <br> -->
 
-- <details>
-    <summary>Felipe Marcelino
+- <summary>Felipe Marcelino
     <a href="https://github.com/felipemarcelino99" alt="Perfil de Felipe Marcelino no Github">
         <img align="center" src="./icons/github.png"/>
     </a>
-    </summary>
+</summary>
 <!-- <br> -->
 
 - <summary>Karen Boscolo
