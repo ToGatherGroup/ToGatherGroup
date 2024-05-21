@@ -1,7 +1,7 @@
 <h1 align="center"> ToGather Group </h1>
 <p align="center">Esta é a conta corporativa para hospedar os projetos do ToGather Group.</p>
 
-<h2>📖Membros do grupo</h2>
+<h2> :frowning_person: Membros do grupo :frowning_woman: </h2>
 
 - <summary>Alex Almeida
     <a href="https://github.com/AlexAlmeidaLeonardo" alt="Perfil de Alex Almeida no Github">
