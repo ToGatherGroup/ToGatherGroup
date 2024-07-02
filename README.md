@@ -38,6 +38,9 @@
     <a href="https://github.com/felipemarcelino99" alt="Perfil de Felipe Marcelino no Github">
         <img align="center" src="./icons/github.png"/>
     </a>
+    <a href="#" alt="Perfil de Felipe Marcelino no Linkedin">
+        <img align="center" src="./icons/linkedin.png"/>
+    </a>
 </summary>
 <!-- <br> -->
 
@@ -66,6 +69,26 @@
         <img align="center" src="./icons/github.png"/>
     </a>
     <a href="https://www.linkedin.com/in/michel-machado-29986656/" alt="Perfil de Michel Machado no Linkedin">
+        <img align="center" src="./icons/linkedin.png"/>
+    </a>
+  </summary>
+<!-- <br> -->
+
+- <summary>Paulo Mota
+    <a href="https://github.com/Roberto-Mota" alt="Perfil de Paulo Mota no Github">
+        <img align="center" src="./icons/github.png"/>
+    </a>
+    <a href="#" alt="Perfil de Paulo Mota no Linkedin">
+        <img align="center" src="./icons/linkedin.png"/>
+    </a>
+  </summary>
+<!-- <br> -->
+
+  - <summary>Wilson Alves
+    <a href="https://github.com/Wilrrama" alt="Perfil de Wilson Alves no Github">
+        <img align="center" src="./icons/github.png"/>
+    </a>
+    <a href="#" alt="Perfil de Wilson Alves no Linkedin">
         <img align="center" src="./icons/linkedin.png"/>
     </a>
   </summary>
